@@ -23,6 +23,7 @@ body {
 }
 
 .sub-header {
-    font-size: 16px;
-    color: aquamarine;
+    font-size: 21px;
+    color:gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
